@@ -20,7 +20,7 @@ Readers can learn about specific dangers by reading all reports with a certain c
 https://eliotcaroom.com/
 
 ### Data Sources: 
-This data was gathered from the AAC’s public website in 2018, prior to a site redesign. Calendar year 2019 data came from ANAC publication proofs provided by the AAC editors. The current article search tool can be found [here](http://publications.americanalpineclub.org/)
+This data was gathered from the AAC’s public website in 2018, prior to a site redesign. 2019 data came from ANAC publication proofs provided by the AAC editors. The current article search tool can be found [here](http://publications.americanalpineclub.org/)
 . 
 
 ### Acknowledgements: 
