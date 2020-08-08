@@ -17,7 +17,7 @@ Climbers can also download the data in [an Excel spreadsheet](https://github.com
 Readers can learn about specific dangers by reading all reports with a certain combination of factors, for example, inexperienced climbers and top rope climbing, or experienced climbers and traditional (trad) climbing.
 
 ### Provided by Eliot Caroom, climber, researcher, and product manager: 
-https://eliotcaroom.com/
+http://eliotcaroom.com/
 
 ### Data Sources: 
 This data was gathered from the AAC’s public website in 2018, prior to a site redesign. 2019 data came from ANAC publication proofs provided by the AAC editors. The current article search tool can be found [here](http://publications.americanalpineclub.org/)
