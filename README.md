@@ -6,7 +6,7 @@ This is not an AAC project. While this data was previously published by the Amer
 
 The study period of 30 years starts with 1990 publication year reports (mostly 1989 incidents) and ends after with the 2019 publication year reports (mostly 2018 incidents). That time range offers a sample of accidents in which modern techniques and equipment are used, including cams, bolted sport climbs, and climbers who train in gyms and then go outside.
 
-This project makes changes to traditional categories tabulated by the AAC: For example, accidents are tagged to climbing disciplines like Top-rope, Sport, Trad, and Ice Climbing, data not reported by the AAC. For more on categories and how they were tagged, see the [category definitions file](climbing-accidents/blob/master/_github-Category-Definitions%2BNotes.xlsx). 
+This project makes changes to traditional categories tabulated by the AAC: For example, accidents are tagged to climbing disciplines like Top-rope, Sport, Trad, and Ice Climbing, data not reported by the AAC. For more on categories and how they were tagged, see the [category definitions file](https://github.com/ecaroom/climbing-accidents/blob/master/_github-Category-Definitions%2BNotes.xlsx). 
 
 For more on methodology differences, please see the [methodology file](https://github.com/ecaroom/climbing-accidents/blob/master/_github-uncut-methodology.docx).
 
