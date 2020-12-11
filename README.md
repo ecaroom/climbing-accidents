@@ -1,7 +1,7 @@
 # Climbing Accidents Data Repository: Analyzing 30 Years of Accident Reports
 
 This is a data repository for a project using natural language analysis to tag factors and analyze 30 years of climbing accident reports. 
-A summary of the results was published as a feature story in Rock & Ice(https://rockandice.com/climbing-accidents/30-years-of-climbing-accident-data-an-investigative-report/) in Sept. 2020. The goal of this project is to help climbers better understand frequency of factors and relationships between key factors such as experience level, type of climbing, time of day, etc.
+A summary of the results was [published as a feature story in Rock & Ice](https://rockandice.com/climbing-accidents/30-years-of-climbing-accident-data-an-investigative-report/) in Sept. 2020. The goal of this project is to help climbers better understand frequency of factors and relationships between key factors such as experience level, type of climbing, time of day, etc.
 
 This is not an AAC project. While this data was previously published by the American Alpine Club (AAC) online and in _Accidents in North American Climbing_ (ANAC) publications, the accidents were published without tags, separated from tables with statistics. 
 
